@@ -1,11 +1,11 @@
 Quick start:
 
-install dependencies from requirements.txt
+Install dependencies from requirements.txt
 
-setup postgresql database
+Setup postgresql database
 
-setup website_config.py and config.py
+Setup website_config.py and config.py
 
-run db_create.py
+Run db_create.py
 
-run run.py
+Run run.py
